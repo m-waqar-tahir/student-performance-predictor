@@ -1,14 +1,14 @@
 # 🎓 Student Performance Predictor
 
-> A Machine Learning project to predict student pass/fail outcomes using behavioral and academic features.
+> A machine learning project predicting student pass/fail outcomes using behavioral and academic features.
 
-**By Muhammad Waqar Tahir** — BS Computer Science, GCU Faisalabad
+**By Muhammad Waqar Tahir** — BS Computer Science, Government College University Faisalabad
 
 ---
 
 ## 📌 Problem Statement
 
-Early identification of at-risk students allows educators to intervene before it's too late. This project builds a binary classification model that predicts whether a student will **pass or fail** based on easily measurable behavioral data — making it a practical **AI for Social Good** application.
+Early identification of at-risk students allows educators to intervene before it's too late. This project builds a binary classification model that predicts whether a student will **pass or fail** based on easily measurable behavioral data, making it a practical **AI for Social Good** application.
 
 ---
 
@@ -55,9 +55,10 @@ The Random Forest model outperformed Logistic Regression and identified **previo
 ## 🖼️ Visualizations
 
 The notebook generates and saves the following charts:
+
 - `eda_distributions.png` — Feature distributions by pass/fail
 - `correlation_heatmap.png` — Feature correlation matrix
-- `model_comparison.png` — Confusion matrices + accuracy comparison
+- `model_comparison.png` — Confusion matrices and accuracy comparison
 - `feature_importance.png` — Top predictors bar chart
 
 ---
