@@ -109,11 +109,6 @@ See `requirements.txt` for the full list. Main dependencies:
 
 **Muhammad Waqar Tahir**
 📧 waqartahir480@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/waqar-tahir-445a072b9)
 🔗 [GitHub](https://github.com/m-waqar-tahir)
 
 ---
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
